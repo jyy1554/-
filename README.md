@@ -28,4 +28,5 @@
 ## HTML : Hyper Text (연결,링크된) Markup Language (Tag : 설명하는 정보)
 ## <!DOCTYPE html> : html5를 따른다. 
 ## 태그 : head(문서에 대한 정보를 담은 태그), body(본문 해당), a, li, ul (=unordered list), ol
+### 태그 검색 : http://dev.w3.org/html5/html-authhor 또는 http://opentutorials.org/course/1058
 ## 속성 : 띄어쓰기로 구분 e.g. href="링크", target="_blank"
