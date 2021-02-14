@@ -25,6 +25,7 @@
 ## 프로그래밍 언어 : 사람과 컴퓨터 사이의 약속
 ## 코드 : 설계도. 
 ##
+# HTML 궁극적인 목표 = 정보! 어떤한 정보를 컴퓨터와 사람이 이해할 수 있게 태그를 이용해서 규정하고 정의하는 것!
 ## HTML : Hyper Text (연결,링크된) Markup Language (Tag : 설명하는 정보)
 ## <!DOCTYPE html> : html5를 따른다. 
 ## 태그 : head(문서에 대한 정보를 담은 태그), body(본문 해당), a, li, ul (=unordered list), ol
