@@ -20,5 +20,11 @@
 ## localhost/index.html 입력
 ### localhost : 웹브라우저가 설치된 컴퓨터
 ### htdocs 디렉토리 : Document Root 라고도 함. 웹서버가 문서를 찾는 최상위 디렉토리. 
+## C:\Bitnami\wampstack-7.3.24-0 에서 manager-windows 실행 : apache가 running 되어있어야함
 ##
+## 프로그래밍 언어 : 사람과 컴퓨터 사이의 약속
+## 코드 : 설계도. 
 ##
+## HTML : Hyper Text (연결,링크된) Markup Language (Tag : 설명하는 정보)
+## 태그 : head(문서에 대한 정보를 담은 태그), body(본문 해당), a, li, ul (=unordered list), ol
+## 속성 : 띄어쓰기로 구분 e.g. href="링크", target="_blank"
